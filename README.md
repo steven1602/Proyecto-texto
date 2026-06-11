@@ -66,21 +66,12 @@ proyecto_pos/
 
 ---
 
-## Instalación
 
-```bash
-# Clonar el repositorio
-git clone hhttps://github.com/steven1602/Proyecto-texto.git
-cd proyecto-pos-tagging
 
-# Descargar modelo de spaCy en español
-python -m spacy download es_core_news_md
 
-# Correr el dashboard
-python dashboard/app.py
 ```
 
-Luego abrir en el navegador: **http://127.0.0.1:8050**
+
 
 ---
 
